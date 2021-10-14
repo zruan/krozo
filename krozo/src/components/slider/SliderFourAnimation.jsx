@@ -94,7 +94,7 @@ const Slider = () => {
                   data-aos-duration="1200"
                   data-aos-delay="100"
                 >
-                  Miladra Narzo
+                  Dr. Zheng Ruan
                 </h1>
                 <div>
                   <div className="nav ht-list justify-content-center">
@@ -104,7 +104,7 @@ const Slider = () => {
                       data-aos-duration="1200"
                       data-aos-delay="150"
                     >
-                      Web Designer
+                      Structural Biologist
                     </span>{" "}
                     <span
                       className="font-alt"
@@ -112,7 +112,7 @@ const Slider = () => {
                       data-aos-duration="1200"
                       data-aos-delay="200"
                     >
-                      Web Developer
+                      Bioinformatician
                     </span>
                     <span
                       className="font-alt"
@@ -120,7 +120,7 @@ const Slider = () => {
                       data-aos-duration="1200"
                       data-aos-delay="250"
                     >
-                      UI/UX Designer
+                      Postdoctoral Fellow at Van Andel Institute
                     </span>
                   </div>
                 </div>
