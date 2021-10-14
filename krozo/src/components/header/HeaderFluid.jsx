@@ -79,15 +79,6 @@ const HeaderFluid = () => {
                   </a>
                 </li>
                 <li>
-                  <a
-                    className="nav-link"
-                    href="#services"
-                    onClick={handleClick}
-                  >
-                    <span>Services</span>
-                  </a>
-                </li>
-                <li>
                   <a className="nav-link" href="#projects" onClick={handleClick}>
                     <span>Portfolio</span>
                   </a>
