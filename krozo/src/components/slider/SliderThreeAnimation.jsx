@@ -81,7 +81,7 @@ const Slider = () => {
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  Ridinana Aria
+                  Zheng Ruan
                 </h1>
                 <h2
                   data-aos="fade-up"
@@ -89,9 +89,9 @@ const Slider = () => {
                   data-aos-delay="100"
                 >
                   <TextLoop>
-                    <span className="loop-text">Web Developer</span>
-                    <span className="loop-text"> UI/UX Designer</span>
-                    <span className="loop-text"> App Developer</span>
+                    <span className="loop-text">Structural Biologist</span>
+                    <span className="loop-text"> Bioinformatician</span>
+                    <span className="loop-text"> Postdoctoral Fellow at Van Anden Institute</span>
                   </TextLoop>{" "}
                 </h2>
                 <p
@@ -99,9 +99,7 @@ const Slider = () => {
                   data-aos-duration="1200"
                   data-aos-delay="200"
                 >
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites, web
-                  services and online stores.
+                  I study ion channel proteins through structural, biochemical, and computational approaches.
                 </p>
                 <div
                   className="btn-bar"
