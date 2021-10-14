@@ -26,7 +26,7 @@ const About = () => {
               I'm currently at postdoctoral fellow in Dr. Juan Du's lab at Van Andel Institute.
             </h5>
             <p>
-              Zheng Ruan is from Hubei, China. Dr. Ruan earned his B.S. in biotechnology from
+              Zheng Ruan is born and raised in Hubei, China. Dr. Ruan earned his B.S. in biotechnology from
               Huazhong Agricultural University and his Ph.D. in bioinformatics from the
               University of Georgia. His graduate work focused on protein kinase evolution and
               how disease mutations have altered the structure, function, and dynamics of kinases.
