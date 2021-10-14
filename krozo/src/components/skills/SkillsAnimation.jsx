@@ -15,22 +15,17 @@ const Skills = () => {
 
           <ul className="aducation-box theme-bg">
             <li>
-              <span className="dark-bg">2010-2012</span>
-              <h6>Front-end Engineer</h6>
-              <p>International Design Institute</p>
+              <span className="dark-bg">2008-2012</span>
+              <h6>Bachelor of Science (Biotechnology)</h6>
+              <p>Huazhong Agricultural University</p>
             </li>
 
             <li>
-              <span className="dark-bg">2010-2012</span>
-              <h6>Graphic Designer</h6>
-              <p>Rio Design Institute</p>
+              <span className="dark-bg">2012-2018</span>
+              <h6>Doctor of Philosophy (Bioinformatics)</h6>
+              <p>University of Georgie</p>
             </li>
 
-            <li>
-              <span className="dark-bg">2010-2012</span>
-              <h6>Visual Designer</h6>
-              <p>Jakarta Design Institute</p>
-            </li>
           </ul>
 
           {/* End  .aducation-box */}
