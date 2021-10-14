@@ -26,11 +26,14 @@ const About = () => {
               I'm currently at postdoctoral fellow in Dr. Juan Du's lab at Van Andel Institute.
             </h5>
             <p>
-              I design and develop services for customers of all sizes,
-              specializing in creating stylish, modern websites, web services
-              and online stores. My passion is to design digital user
-              experiences through the bold interface and meaningful
-              interactions. Check out my Portfolio
+              Zheng Ruan is from Hubei, China. Dr. Ruan earned his B.S. in biotechnology from
+              Huazhong Agricultural University and his Ph.D. in bioinformatics from the
+              University of Georgia. His graduate work focused on protein kinase evolution and
+              how disease mutations have altered the structure, function, and dynamics of kinases.
+              In 2018, he joined the laboratory of Dr. Juan Du at Van Andel Institute as a
+              postdoctoral fellow. His current research project aims to understand the structure
+              and function relationship of ion channel proteins that are related to human diseases.
+              Outside of the lab, he enjoys playing badminton and scuba diving with his buddies.
             </p>
             <div className="row about-list">
               <div className="col-md-6">
