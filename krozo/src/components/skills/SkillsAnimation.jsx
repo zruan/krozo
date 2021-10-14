@@ -43,21 +43,9 @@ const Skills = () => {
           </div>
           <ul className="aducation-box dark-bg">
             <li>
-              <span className="theme-bg">2010-2012</span>
-              <h6>Software Engineer</h6>
-              <p>Furious Design Institute</p>
-            </li>
-
-            <li>
-              <span className="theme-bg">2010-2012</span>
-              <h6>Android Developer</h6>
-              <p>Ketlimte Design Ltd.</p>
-            </li>
-
-            <li>
-              <span className="theme-bg">2010-2012</span>
-              <h6>Rubby Developer</h6>
-              <p>Randara Institute Academy</p>
+              <span className="theme-bg">2013</span>
+              <h6>Google Summer of Code Student</h6>
+              <p>Developed the codonalign module in Biopython</p>
             </li>
           </ul>
           {/* End  .aducation-box */}
@@ -75,12 +63,12 @@ const Skills = () => {
           </div>
           <div className="gray-bg skill-box">
             <div className="skill-lt">
-              <h6>React js</h6>
+              <h6>Single Particle Cryo-EM</h6>
 
               <div className="skill-bar">
                 <div
                   className="skill-bar-in theme-bg"
-                  style={{ width: 92 + "%" }}
+                  style={{ width: 90 + "%" }}
                 >
                   <span>92%</span>
                 </div>
