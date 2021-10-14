@@ -21,10 +21,9 @@ const About = () => {
           data-aos-delay="100"
         >
           <div className="typo-box about-me">
-            <h3>Ridinana Aria</h3>
+            <h3>Zheng Ruan</h3>
             <h5>
-              A Lead <span className="color-theme">UX &amp; UI</span> designer
-              based in <span className="color-theme">Canada</span>
+              I'm currently at postdoctoral fellow in Dr. Juan Du's lab at Van Andel Institute.
             </h5>
             <p>
               I design and develop services for customers of all sizes,
@@ -36,20 +35,20 @@ const About = () => {
             <div className="row about-list">
               <div className="col-md-6">
                 <div className="media">
-                  <label>Birthday</label>
-                  <p>4th april 1991</p>
+                  <label>Hometown</label>
+                  <p>Xianning, Hubei, China</p>
                 </div>
                 <div className="media">
                   <label>Age</label>
-                  <p>22 Yr</p>
+                  <p>30 Yr</p>
                 </div>
                 <div className="media">
                   <label>Residence</label>
-                  <p>Canada</p>
+                  <p>United States</p>
                 </div>
                 <div className="media">
                   <label>Address</label>
-                  <p>California, USA</p>
+                  <p>Grand Rapids, USA</p>
                 </div>
               </div>
               {/* End .col */}
@@ -57,7 +56,7 @@ const About = () => {
               <div className="col-md-6">
                 <div className="media">
                   <label>E-mail</label>
-                  <p>info@domain.com</p>
+                  <p>zheng.ruan at vai.org</p>
                 </div>
                 <div className="media">
                   <label>Phone</label>
