@@ -10,7 +10,7 @@ const About = () => {
           data-aos-duration="1200"
         >
           <div className="img-box">
-            <img src="img/about/about-4.jpg" alt="smiling a girl" />
+            <img src="img/about/about-zr.jpg" alt="smiling a girl" />
           </div>
         </div>
 
@@ -78,7 +78,7 @@ const About = () => {
             </div>
             {/* End .row */}
             <div className="btn-bar">
-              <a className="px-btn px-btn-theme" href="img/resume.png" download>
+              <a className="px-btn px-btn-theme" href="img/ZhengRuan_CV_20211014.pdf" download>
                 Download CV
               </a>
             </div>

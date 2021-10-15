@@ -4,7 +4,7 @@ const ServiceContent = [
   {
     icon: "ti-ruler-pencil",
     no: "01",
-    service: "RESPONSIVE LAYOUT",
+    service: "Proton-activated Chloride (PAC) Channel",
     title: "Responsive layout design meeting clients needs.",
     desc: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua.`,

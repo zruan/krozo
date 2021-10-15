@@ -74,15 +74,6 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a
-                    className="nav-link"
-                    href="#services"
-                    onClick={handleClick}
-                  >
-                    <span>Services</span>
-                  </a>
-                </li>
-                <li>
                   <a className="nav-link" href="#projects" onClick={handleClick}>
                     <span>Projects</span>
                   </a>
@@ -99,7 +90,7 @@ const Header = () => {
                 </li>
                 <li>
                   <a className="nav-link" href="#Art" onClick={handleClick}>
-                    <span>Arg</span>
+                    <span>Art</span>
                   </a>
                 </li>
                 <li>

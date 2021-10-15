@@ -16,13 +16,13 @@ const Skills = () => {
           <ul className="aducation-box theme-bg">
             <li>
               <span className="dark-bg">2008-2012</span>
-              <h6>Bachelor of Science (Biotechnology)</h6>
+              <h6>Biotechnology, BS</h6>
               <p>Huazhong Agricultural University</p>
             </li>
 
             <li>
               <span className="dark-bg">2012-2018</span>
-              <h6>Doctor of Philosophy (Bioinformatics)</h6>
+              <h6>Bioinformatics, PhD</h6>
               <p>University of Georgie</p>
             </li>
 
@@ -45,7 +45,7 @@ const Skills = () => {
             <li>
               <span className="theme-bg">2013</span>
               <h6>Google Summer of Code Student</h6>
-              <p>Developed the codonalign module in Biopython</p>
+              <p>Developed the codonalign module in <a href="https://biopython.org/" target="_blank">Biopython</a></p>
             </li>
           </ul>
           {/* End  .aducation-box */}

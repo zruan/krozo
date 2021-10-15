@@ -12,7 +12,7 @@ const Slider = () => {
         className="home-banner overlay video-banner slider-three-animation"
         style={{
           backgroundImage: `url(${
-            process.env.PUBLIC_URL + "img/banner/bg-4.jpg"
+            process.env.PUBLIC_URL + "img/banner/bg_pac.jpg"
           })`,
         }}
       >
@@ -76,11 +76,7 @@ const Slider = () => {
           <div className="row align-items-center full-screen">
             <div className="col-md-12 col-lg-7">
               <div className="hb-typo text-left">
-                <h1
-                  className="font-alt"
-                  data-aos="fade-up"
-                  data-aos-duration="1200"
-                >
+                <h1 className="font-alt" data-aos="fade-up" data-aos-duration="1200">
                   Zheng Ruan
                 </h1>
                 <h2

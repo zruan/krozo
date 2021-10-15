@@ -29,16 +29,22 @@ const HomeThree = () => {
       </section>
       {/* End About Me */}
 
+      {/*  Skills */}
+      <section className="section skill-section">
+        <div className="container">
+          <Skills />
+        </div>
+      </section>
+      {/* End Skills */}
+
       {/* Services */}
       <section id="services" className="section services-section gray-bg">
         <div className="container">
           <div className="row justify-content-center section-title text-center">
             <div className="col-lg-7">
-              <h3 className="font-alt">My Services</h3>
+              <h3 className="font-alt">My Research</h3>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores.
+                I study the structure and function relationship of membrane proteins that are critically involved in human diseases.
               </p>
             </div>
           </div>
@@ -47,14 +53,6 @@ const HomeThree = () => {
         </div>
       </section>
       {/* End Services */}
-
-      {/*  Skills */}
-      <section className="section skill-section">
-        <div className="container">
-          <Skills />
-        </div>
-      </section>
-      {/* End Skills */}
 
       <section id="work" className="section gray-bg">
         <div className="container">

@@ -54,7 +54,7 @@ const FeaturesContent = [
 ];
 
 const Preview = () => {
-  useDocumentTitle("Krozo - Preview || React Personal Portfolio Template");
+  useDocumentTitle("Ruan's Personal Home Page");
   return (
     <>
       <section className="section demo-section" id="demo">
@@ -76,7 +76,7 @@ const Preview = () => {
           <div className="title-wrapper text-center">
             <span className="tag">Features</span>
             <h2 className=" title">
-              <span className="theme-color">Krozo</span> All Features
+              <span className="theme-color">Ruan's Personal Home Page</span> All Features
             </h2>
           </div>
 
